@@ -18,32 +18,31 @@ The primary objectives of this project are as follows:
 - Manage storage resources to ensure efficient utilization and data redundancy.
 
 ## Technologies and Tools Used
-Amazon Web Services (AWS)
-AWS EC2 (Elastic Compute Cloud)
-Amazon VPC (Virtual Private Cloud)
-Elastic Load Balancer (ELB)
-Amazon S3 (Simple Storage Service)
-AWS CLI (Command Line Interface)
+- Amazon Web Services (AWS)
+- AWS EC2 (Elastic Compute Cloud)
+- Amazon VPC (Virtual Private Cloud)
+- Elastic Load Balancer (ELB)
+- Amazon S3 (Simple Storage Service)
+- AWS CLI (Command Line Interface)
 
 ## Architecture Design
-The project architecture consists of the following components:
-
-AWS VPC
-Subnets
-Internet Gateway
-Security Groups
-Elastic Load Balancer (ELB)
-Virtual Machines (EC2 Instances)
-Amazon S3 Bucket
+The project architecture consists of the following components: 
+- AWS VPC
+- Subnets
+- Internet Gateway
+- Security Groups
+- Elastic Load Balancer (ELB)
+- Virtual Machines (EC2 Instances)
+- Amazon S3 Bucket
 For a detailed explanation of the architecture design, please refer to the Architecture Design section in the project documentation.
 
 ## Project Implementation
 The implementation of the project includes the following steps:
 
-Provisioning Virtual Machines
-Networking Setup
-Load Balancer Configuration
-Storage Resource Management
+1. Provisioning Virtual Machines
+2. Networking Setup
+3. Load Balancer Configuration
+4. Storage Resource Management
 For detailed instructions on implementing each step, please refer to the Project Implementation section in the project documentation.
 
 ## Project Deployment
