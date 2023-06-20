@@ -36,7 +36,6 @@ The project architecture consists of the following components:
 - Amazon S3 Bucket
 
 For a detailed explanation of the architecture design, please refer to the Architecture Design(![Architecture Diagram](architecture.drawio.png) section in the project documentation.
-![Architecture Diagram](architecture.drawio.png)
 
 
 ## Project Implementation
