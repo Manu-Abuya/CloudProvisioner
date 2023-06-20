@@ -2,21 +2,20 @@
 CloudProvisioner is a project that demonstrates advanced-level skills in deploying and managing cloud infrastructure using Amazon Web Services (AWS). The project focuses on provisioning virtual machines, setting up networking, configuring load balancers, and managing storage resources. By implementing this project, you will gain hands-on experience with real-world cloud infrastructure deployment and management scenarios.
 
 ## Table of Contents
-Project Objectives
-Technologies and Tools Used
-Architecture Design
-Project Implementation
-Project Deployment
-Contributing
-License
+- Project Objectives
+- Technologies and Tools Used
+- Architecture Design
+- Project Implementation
+- Project Deployment
+- Contributing
+- License
 
 ## Project Objectives
 The primary objectives of this project are as follows:
-
-Provision virtual machines in the AWS environment.
-Set up networking components to establish communication between virtual machines.
-Configure a load balancer to distribute incoming traffic across multiple virtual machines.
-Manage storage resources to ensure efficient utilization and data redundancy.
+- Provision virtual machines in the AWS environment.
+- Set up networking components to establish communication between virtual machines.
+- Configure a load balancer to distribute incoming traffic across multiple virtual machines.
+- Manage storage resources to ensure efficient utilization and data redundancy.
 
 ## Technologies and Tools Used
 Amazon Web Services (AWS)
