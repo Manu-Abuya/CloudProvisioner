@@ -34,7 +34,8 @@ The project architecture consists of the following components:
 - Elastic Load Balancer (ELB)
 - Virtual Machines (EC2 Instances)
 - Amazon S3 Bucket
-For a detailed explanation of the architecture design, please refer to the Architecture Design section in the project documentation.
+![Architecture Diagram](architecture.png)
+
 
 ## Project Implementation
 The implementation of the project includes the following steps:
