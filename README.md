@@ -35,7 +35,7 @@ The project architecture consists of the following components:
 - Virtual Machines (EC2 Instances)
 - Amazon S3 Bucket
 
-For a detailed explanation of the architecture design, please refer to the Architecture Design(![Architecture Diagram](architecture.drawio.png) section in the project documentation.
+For a detailed explanation of the architecture design, please refer to the [Architecture Design](architecture.drawio.png)section in the project documentation.
 
 
 ## Project Implementation
